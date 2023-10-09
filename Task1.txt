@@ -1,0 +1,7 @@
+Name: <Enter here>
+Branch: <Enter here>
+Enrollment No: <Enter here>
+Your Techparent: <Enter here>
+Hometown: <Enter here>
+Crush Name: <Enter here>
+Your favourite faculty: <Enter here>
